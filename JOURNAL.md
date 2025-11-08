@@ -6,3 +6,9 @@
   ==================================================================
 -->
 
+## 11/7/2025 - Installed Kicad and library  
+
+Since this is my first project ever, I downloaded Kicad and the OPL library. I am a bit overwhelmed but got some progress done. After all, consistency is key. Now I need to study some basic electronics before moving forwards. 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--dfef2161c5789fa123c1be4bf357335fa27421be/image.png)
+  
+
